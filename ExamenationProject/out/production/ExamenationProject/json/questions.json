@@ -1,0 +1,742 @@
+[
+	{
+		"id" : 1,
+		"question_text" : "Какие транспортные средства относятся к маршрутным транспортным средствам (транспортным средствам общего пользования)?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/noimage.png",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Все автобусы"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Автобусы, микроавтобусы, троллейбусы, трамваи и маршрутные такси, движущиеся по установленным маршрутам и имеющие определенные места для посадки (высадки) пассажиров"
+			},
+			{
+				"id" : 3,
+				"variant_answer" : "Любые траспортные средства, перевозящие пассажиров"
+			}
+		]
+ 	},
+ 	{
+ 		"id" : 2,
+		"question_text" : "В каких направлениях вам разрешено продолжить движение?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/01-02.jpg",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Только Б"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Только А и Б"
+			},
+			{
+				"id" : 3,
+				"variant_answer" : "В любых"
+			}
+		]
+ 	},
+ 	{
+ 		"id" : 3,
+		"question_text" : "Как называется данный дорожный знак?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/01-03.jpg",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Возможен неожиданный выезд трамвая на дорогу"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Пересечение подвесной канатной дороги"
+			},
+			{
+				"id" : 3,
+				"variant_answer" : "Пересечение с трамвайными путями"
+			},
+			{
+				"id" : 4,
+				"variant_answer" : "Опасное пересечение дороги с трамвайными путями"
+			}
+		]
+ 	},
+ 	{
+ 		"id" : 4,
+		"question_text" : "Эта табличка в сочетании с дорожным знаком 'Зона стоянки' разрешает вам осуществлять стоянку легкового автомобиля с использованием тротуара",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/01-04.jpg",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Только на правой стороне дороги до ближайшего по ходу движения перекрестка"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Только на правой стороне дороги до знака 'Конец зоны стоянки'"
+			},
+			{
+				"id" : 3,
+				"variant_answer" : "Только способом, указанным на табличке"
+			}
+		]
+ 	},
+ 	{
+ 		"id" : 5,
+		"question_text" : "Эта горизонтальная дорожная разметка, нанесенная на полосе движения",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/01-05.jpg",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Предоставляет вам преимущество при перестроении на правую полосу"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Информирует вас о том, что дорога поворачивает направо"
+			},
+			{
+				"id" : 3,
+				"variant_answer" : "Предупреждает вас о приближении к сужению проезжей части"
+			}
+		]
+ 	},
+ 	{
+ 		"id" : 6,
+		"question_text" : "Что означает мигание зеленого сигнала светофора?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/noimage.png",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Предупреждает о неисправности светофора"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Разрешает движение, но информирует о том, что вскоре будет включен сигнал, запрещающий движение"
+			},
+			{
+				"id" : 3,
+				"variant_answer" : "Запрещает дальнейшее движение"
+			}
+		]
+ 	},
+	{
+		"id" : 7,
+		"question_text" : "Обязаны ли вы в данной ситуации подать сигнал правого поворота?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/01-07.jpg",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Да"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Да, но только при наличии движущихся сзади транспортных средств"
+			},
+			{
+				"id" : 3,
+				"variant_answer" : "Нет"
+			}
+		]
+	},
+	{
+		"id" : 8,
+		"question_text" : "Кто должен уступить дорогу при одновременном перестроении?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/01-08.jpg",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Водитель автомобиля"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Водитель мотоцикла"
+			}
+		]
+	},
+	{
+		"id" : 9,
+		"question_text" : "По какой траектории вам разрешено выполнить разворот?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/01-09.jpg",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Только по А"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Только по Б"
+			},
+			{
+				"id" : 3,
+				"variant_answer" : "По любой"
+			}
+		]
+	},
+	{
+		"id" : 10,
+		"question_text" : "С какой скоростью вы можете продолжить движение вне населенного пункта по левой полосе дороги на легковом автомобиле?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/01-10.jpg",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Не более 50 км/ч"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Не менее 50 км/ч и не более 70 км/ч"
+			},
+			{
+				"id" : 3,
+				"variant_answer" : "Не менее 50 км/ч и не более 110 км/ч"
+			}
+		]
+	},
+	{
+		"id" : 11,
+		"question_text" : "Может ли водитель легкового автомобиля в населенном пункте выполнить опережение грузового автомобиля по такой траектории?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/01-11.jpg",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Да"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Нет"
+			}
+		]
+	},
+	{
+		"id" : 12,
+		"question_text" : "Разрешено ли водителю поставить автомобиль на стоянку в указанном месте?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/01-12.jpg",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Да"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Нет"
+			}
+		]
+	},
+	{
+		"id" : 13,
+		"question_text" : "Обязаны ли вы в данной ситуации подать сигнал правого поворота?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/01-13.jpg",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Да"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Нет"
+			}
+		]
+	},
+	{
+		"id" : 14,
+		"question_text" : "Вы намерены проехать перекресток в прямом направлении. Ваши действия?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/01-14.jpg",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Уступите дорогу легковому автомобилю, поскольку он первым въехал на перекресток"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Убедитесь, что легковой автомобиль уступает дорогу, и только тогда проедете перекресток первым"
+			}
+		]
+	},
+	{
+		"id" : 15,
+		"question_text" : "Вы намерены повернуть налево. Кому следует уступить дорогу?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/01-15.jpg",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Только автобусу"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Разрешает движение, но информирует о том, что вскоре будет включен сигнал, запрещающий движение"
+			},
+			{
+				"id" : 3,
+				"variant_answer" : "Запрещает дальнейшее движение"
+			}
+		]
+	},
+	{
+		"id" : 16,
+		"question_text" : "С какой максимальной скоростью вы можете продолжить движение за знаком?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/01-16.jpg",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "60 км/ч"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "50 км/ч"
+			},
+			{
+				"id" : 3,
+				"variant_answer" : "30 км/ч"
+			},
+			{
+				"id" : 4,
+				"variant_answer" : "20 км/ч"
+			}
+		]
+	},
+	{
+		"id" : 17,
+		"question_text" : "Обязаны ли вы в данной ситуации подать сигнал правого поворота?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/noimage.png",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Только фары ближнего света"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Только фары дальнего света"
+			},
+			{
+				"id" : 3,
+				"variant_answer" : "Фары ближнего или дальнего света"
+			}
+		]
+	},
+	{
+		"id" : 18,
+		"question_text" : "При какой неисправности разрешается эксплуатация транспортного средства?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/noimage.png",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Не работают запоры горловин топливных баков"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Не работает механизм регулировки сиденья водителя"
+			},
+			{
+				"id" : 3,
+				"variant_answer" : "Не работает устройство обогрева и обдува стекла"
+			},
+			{
+				"id" : 4,
+				"variant_answer" : "Не работает стеклоподъемник"
+			}
+		]
+	},
+	{
+		"id" : 19,
+		"question_text" : "В случае, когда правые колеса автомобиля наезжают на неукрепленную влажную обочину, рекомендуется",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/noimage.png",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Затормозить и полностью остановиться"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Затормозить и плавно направить автомобиль в левую сторону"
+			},
+			{
+				"id" : 3,
+				"variant_answer" : "Не прибегая к торможению, плавно вернуть автомобиль на проезжую часть"
+			}
+		]
+	},
+	{
+		"id" : 20,
+		"question_text" : "Когда следует проводить сердечно-легочную реанимацию пострадавшего?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/noimage.png",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "При потере пострадавшим сознания, независимо от наличия пульса на сонной артерии и дыхания"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "При потере пострадавшим сознания и отсутствии пульса на сонной артерии, а также признаков дыхания"
+			}
+		]
+	},
+	{
+		"id" : 21,
+		"question_text" : "При движении на автомобилях, оборудованных ремнями безопасности, пристегиваться ремнями должны",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/noimage.png",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Только водитель"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Только водитель и пассажир на переднем сиденье"
+			},
+			{
+				"id" : 3,
+				"variant_answer" : "Все лица, находящиеся в автомобиле"
+			}
+		]
+	},
+	{
+		"id" : 22,
+		"question_text" : "Можете ли вы въехать на мост первым?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/02-02.jpg",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Да"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Нет"
+			}
+		]
+	},
+	{
+		"id" : 23,
+		"question_text" : "С какой максимальной скоростью вы можете продолжить движение на грузовом автомобиле с разрешенной максимальной массой не более 3,5 т",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/02-03.jpg",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "60 км/ч"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "70 км/ч"
+			},
+			{
+				"id": 3,
+				"variant_answer": "80 км/ч"
+			}
+		]
+	},
+	{
+		"id" : 24,
+		"question_text" : "Что запрещено в зоне действия этого знака?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/02-04.jpg",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Движение автомобилей со скоростью менее 20 км/ч"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Движение пешеходов по проезжей части"
+			},
+			{
+				"id": 3,
+				"variant_answer": "Учебная езда"
+			}
+		]
+	},
+	{
+		"id" : 25,
+		"question_text" : "Разрешен ли вам обгон, если реверсивные светофоры отключены?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/02-05.jpg",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Разрешен"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Разрешен, если скорость автобуса менее 30 км/ч"
+			},
+			{
+				"id": 3,
+				"variant_answer": "Не разрешен"
+			}
+		]
+	},
+	{
+		"id" : 26,
+		"question_text" : "В каких направлениях вам разрешено продолжить движение?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/02-06.jpg",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Только налево"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Прямо и налево"
+			},
+			{
+				"id": 3,
+				"variant_answer": "Налево и в обратном направлении"
+			}
+		]
+	},
+	{
+		"id" : 27,
+		"question_text" : "Поднятая рука вверх водителя легкового автомобиля является сигналом, информирующим вас",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/02-07.jpg",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "О его намерении повернуть направо"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "О его намерении продолжить движение прямо"
+			},
+			{
+				"id": 3,
+				"variant_answer": "О его намерении снизить скорость, чтобы остановиться и уступить дорогу мотоциклисту"
+			}
+		]
+	},
+	{
+		"id" : 28,
+		"question_text" : "Двигаясь по левой полосе, вы намерены перестроиться на правую. На каком из рисунков показана ситуация, в которой вы обязаны уступить дорогу?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/02-08.jpg",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "На левом"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "На правом"
+			},
+			{
+				"id": 3,
+				"variant_answer": "На обоих"
+			}
+		]
+	},
+	{
+		"id" : 29,
+		"question_text" : "Разрешен ли вам разворот в указанном месте?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/02-09.jpg",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Разрешен только при отсутствии приближающегося поезда"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Разрешен"
+			},
+			{
+				"id": 3,
+				"variant_answer": "Запрещен"
+			}
+		]
+	},
+	{
+		"id" : 30,
+		"question_text" : "В каких случаях вы можете наезжать на прерывистые линии разметки, разделяющие проезжую часть на полосы движения?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/noimage.png",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Только при перестроении"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Только при движении в темное время суток"
+			},
+			{
+				"id" : 3,
+				"variant_answer" : "Только если на дороге нет других транспортных средств"
+			},
+			{
+				"id" : 4,
+				"variant_answer" : "Во всех перечисленных случаях"
+			}
+		]
+	},
+	{
+		"id" : 31,
+		"question_text" : "Разрешено ли вам обогнать мотоциклиста?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/02-11.jpg",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Разрешено"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Запрещено"
+			}
+		]
+	},
+	{
+		"id" : 32,
+		"question_text" : "Нарушил ли водитель грузового автомобиля с разрешенной массой не более 3,5 т правила стоянки в данной ситуации?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/02-12.jpg",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Да"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Нет"
+			}
+		]
+	},
+	{
+		"id" : 33,
+		"question_text" : "Вы намерены повернуть налево. Кому следует уступить дорогу?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/02-13.jpg",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Только пешеходам"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Только автобусу"
+			},
+			{
+				"id" : 3,
+				"variant_answer" : "Автобусу и пешеходам"
+			},
+			{
+				"id" : 4,
+				"variant_answer" : "Никому"
+			}
+		]
+	},
+	{
+		"id" : 34,
+		"question_text" : "Вы намерены повернуть налево. Ваши действия?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/02-14.jpg",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Проедете перекресток первым"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Уступите дорогу автомобилю"
+			}
+		]
+	},
+	{
+		"id" : 35,
+		"question_text" : "Обязан ли мотоциклист уступить вам дорогу в данной ситуации?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/02-15.jpg",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Да"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Нет"
+			}
+		]
+	},
+	{
+		"id" : 36,
+		"question_text" : "В данной ситуации вы",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/02-16.jpg",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Должны уступить дорогу автобусу, начинающему движение от обозначенного места остановки"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Имеете преимущество, т.к. водитель автобуса начинает движение с выездом на вторую полосу"
+			}
+		]
+	},
+	{
+		"id" : 37,
+		"question_text" : "В каких из перечисленных случаев запрещена буксировка на гибкой сцепке?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/noimage.png",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Только на горных дорогах"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Только в гололедицу"
+			},
+			{
+				"id" : 3,
+				"variant_answer" : "Только в темное время суток и в условиях недостаточной видимости"
+			},
+			{
+				"id" : 4,
+				"variant_answer" : "Правильные ответы 1 и 2"
+			}
+		]
+	},
+	{
+		"id" : 38,
+		"question_text" : "Какая наименьшая величина остаточной высоты рисунка протектора допускается при эксплуатации мотоцикла?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/noimage.png",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "0,8 мм"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "1,0 мм"
+			},
+			{
+				"id" : 3,
+				"variant_answer" : "1,6 мм"
+			},
+			{
+				"id" : 4,
+				"variant_answer" : "2,0 мм"
+			}
+		]
+	},
+	{
+		"id" : 39,
+		"question_text" : "Что подразумевается под остановочным путем?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/noimage.png",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Расстояние, пройденное транспортным средством с момента обнаружения водителем опасности до полной остановки"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Расстояние, пройденное транспортным средством с момента начала срабатывания тормозного привода до полной остановки"
+			},
+			{
+				"id" : 3,
+				"variant_answer" : "Расстояние, соответствующее тормозному пути, определенному технической характеристикой данного транспортного средства"
+			}
+		]
+	},
+	{
+		"id" : 40,
+		"question_text" : "Что подразумевается под временем реакции водителя?",
+		"image_path" : "/home/stanislav/myprojects/ExamenationProject/src/image/noimage.png",
+		"answers" : [
+			{
+				"id" : 1,
+				"variant_answer" : "Время с момента обнаружения водителем опасности до полной остановки транспортного средства"
+			},
+			{
+				"id" : 2,
+				"variant_answer" : "Время со момента обнаружения водителем опасности до начала принятия мер по ее избежанию"
+			},
+			{
+				"id" : 3,
+				"variant_answer" : "Время, необходимое для переноса ноги с педали подачи топлива на педаль тормоза"
+			}
+		]
+	}
+]
